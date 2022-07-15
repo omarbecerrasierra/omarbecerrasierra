@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @omarbecerrasierra
 - 👀 I’m interested in Data Science, Data analytics, Machine Learning Enginiering and Data Enginner
 - 🌱 I’m currently learning Python, R, Spark, SQL, NoSQL, Github, Docker, Kubernetes, Power BI.
-- 💞️ I’m looking to collaborate on Projects of high impact in the companies or researching.
+- 💞️ I’m looking to collaborate on Projects of high impact in the companies or academics.
